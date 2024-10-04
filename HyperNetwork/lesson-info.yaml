@@ -1,0 +1,9 @@
+type: framework
+content:
+  - Network
+  - Postgres
+  - Adminer
+  - Records
+  - Chores
+  - Final sweep
+current_task: 5
